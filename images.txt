@@ -1,1 +1,2 @@
+debian
 ghcr.io/open-webui/open-webui
