@@ -2,3 +2,4 @@ nginx:alpine
 debian
 ghcr.io/open-webui/open-webui
 nacos/nacos-server:v3.0.1
+redis:6.2-alpine
